@@ -33,3 +33,4 @@ env2/
 .DS_Store
 Thumbs.db
 /pdf_extract
+/docx_extract
